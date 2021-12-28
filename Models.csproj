@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Description>Base models package that other models packages should include and inherit from</Description>
+    <PackageId>Models</PackageId>
+    <Version>1.0.0$(VersionSuffix)</Version>
+    <Authors>Nicho</Authors>
+    <Company>MyCompany</Company>
+  </PropertyGroup>
+
+</Project>
